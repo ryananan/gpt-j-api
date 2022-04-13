@@ -1,5 +1,7 @@
 # local environment
 gptj-api-env
+gpt-j-api
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
